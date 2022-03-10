@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="EmployeeData.css"?>
+<!DOCTYPE employees SYSTEM "employee.dtd" >
+<employees>
+    <employee>
+        <name>
+            <fname>Abdullah</fname>
+            <lname>Hegab</lname>
+        </name>
+        <phones>
+            <phone type="mobile">01203000018</phone>
+            <phone type="work">01030484896</phone>
+        </phones>
+        <address>
+            <country>Egypt</country>
+            <city>Alexandria</city>
+            <region>El-Agmy</region>
+            <street>4-street</street>
+            <buildingNumber>3</buildingNumber>
+        </address>
+        <Email>abdallahhegab192@gmail.com</Email>
+    </employee>
+    <employee>
+        <name>
+            <fname>Abdullah</fname>
+            <lname>Hegab</lname>
+        </name>
+        <phones>
+            <phone type="mobile">01203000018</phone>
+            <phone type="work">01030484896</phone>
+        </phones>
+        <address>
+            <country>Egypt</country>
+            <city>Alexandria</city>
+            <region>El-Agmy</region>
+            <street>4-street</street>
+            <buildingNumber>3</buildingNumber>
+        </address>
+        <Email>abdallahhegab192@gmail.com</Email>
+    </employee>
+</employees>

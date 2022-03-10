@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet type="text/css" href="libraryData.css"?>
+
+<library location="alexandria" description="" librarian="">
+    <books>
+        <book ISBN="">
+            <title>XML</title>
+            <author>Ahmad</author>
+            <preface>data</preface>
+            <parts>
+                <part>
+                    <title>chapter1</title>
+                    <chapters>
+                        <chapter>
+                            <title>Lorem.</title>
+                            <section>
+                                <paragraph>Lorem ipsum dolor.</paragraph>
+                                <paragraph>Lorem ipsum dolor.</paragraph>
+                                <paragraph>Lorem ipsum dolor.</paragraph>
+                            </section>
+                            <section>
+                                <paragraph>Lorem ipsum dolor.</paragraph>
+                                <paragraph>Lorem ipsum dolor.</paragraph>
+                                <paragraph>Lorem ipsum dolor.</paragraph>
+                            </section>
+                            <summary>Lorem ipsum.</summary>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+    </books>
+</library>
